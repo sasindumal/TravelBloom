@@ -1,0 +1,92 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "A vast country known for its diverse landscapes, from the Outback to beautiful coastlines, vibrant cities, and unique wildlife including kangaroos and koalas.",
+      "timeZone": "Australia/Sydney"
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Land of the rising sun, featuring ancient traditions, modern technology, beautiful cherry blossoms, and exquisite cuisine. Experience the perfect blend of old and new.",
+      "timeZone": "Asia/Jakarta"
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "A tropical paradise with crystal-clear turquoise waters, overwater bungalows, and pristine white sand beaches. Perfect for romance and relaxation.",
+      "timeZone": "Pacific/Tahiti"
+    },
+    {
+      "id": 2,
+      "name": "Santorini, Greece",
+      "imageUrl": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Famous for its stunning sunsets, white-washed buildings, and dramatic cliffs overlooking the Aegean Sea. A photographer's dream destination.",
+      "timeZone": "Europe/Athens"
+    },
+    {
+      "id": 3,
+      "name": "Maldives",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "An archipelago of coral islands with pristine beaches, luxury resorts, and world-class diving and snorkeling in crystal-clear waters.",
+      "timeZone": "Indian/Maldives"
+    },
+    {
+      "id": 4,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "One of the world's most famous beaches, known for its vibrant atmosphere, beach volleyball, and stunning views of Sugarloaf Mountain.",
+      "timeZone": "America/Sao_Paulo"
+    }
+  ]
+}/Tokyo"
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Home to the Amazon rainforest, vibrant carnival culture, stunning beaches, and the iconic Christ the Redeemer statue. A country of natural wonders and cultural richness.",
+      "timeZone": "America/Sao_Paulo"
+    },
+    {
+      "id": 4,
+      "name": "Italy",
+      "imageUrl": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "A European gem known for its rich history, Renaissance art, delicious cuisine, and romantic cities like Rome, Venice, and Florence.",
+      "timeZone": "Europe/Rome"
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d77ecd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "The largest religious monument in the world, this ancient temple complex showcases the grandeur of the Khmer Empire and is a UNESCO World Heritage Site.",
+      "timeZone": "Asia/Phnom_Penh"
+    },
+    {
+      "id": 2,
+      "name": "Kyoto Temples, Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Ancient Buddhist and Shinto temples set in serene gardens, representing centuries of Japanese spiritual tradition and architectural excellence.",
+      "timeZone": "Asia/Tokyo"
+    },
+    {
+      "id": 3,
+      "name": "Bagan Temples, Myanmar",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Over 2,000 ancient Buddhist temples and pagodas scattered across a mystical plain, offering breathtaking sunrise views and spiritual experiences.",
+      "timeZone": "Asia/Yangon"
+    },
+    {
+      "id": 4,
+      "name": "Borobudur, Indonesia",
+      "imageUrl": "https://images.unsplash.com/photo-1555400082-c7ad8b63a8e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "A magnificent 9th-century Mahayana Buddhist temple with intricate stone carvings and stupas, set against the backdrop of lush Javanese landscape.",
+      "timeZone": "Asia
